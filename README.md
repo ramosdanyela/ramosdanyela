@@ -21,12 +21,10 @@ With over 5 years of experience in the tech industry, I’ve had the opportunity
 
 My background in both technical and business-facing roles equips me with a unique perspective as a developer, enabling me to craft solutions that are both effective and user-focused.
 
-___
 
 ## Portfolio and Featured Projects
 Check out some of the pinned projects below to see what I’ve been working on recently. These showcase my growth, creativity, and technical expertise as a developer.
 
-___
 
 ## Let's Connect!
 If you have any questions, interesting projects, or just want to connect, feel free to reach out to me:
